@@ -4,3 +4,5 @@ Gradient Descent methods with three different Optimizer written in numpy
 - RMS
 - AdaGrad
 - Adam
+
+A* Algorithm implementation with python 3.5
